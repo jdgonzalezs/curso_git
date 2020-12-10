@@ -20,3 +20,9 @@ h1 {
     border: 1px solid #DDD; 
     margin: 0 auto;
 }
+
+#cabecera {
+
+    background-color: blue;
+    color: cornsilk;
+}
