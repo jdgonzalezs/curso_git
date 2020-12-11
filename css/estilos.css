@@ -1,0 +1,32 @@
+body
+{
+    color: darkblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+
+    font-size: 60px;
+}
+
+#container {
+
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD; 
+    margin: 0 auto;
+}
+
+#cabecera {
+
+    background-color: blue;
+    color: cornsilk;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 20px;
+}
